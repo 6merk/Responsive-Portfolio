@@ -1,0 +1,40 @@
+.header {
+
+
+}
+
+#name{
+	
+	float:left;
+	background:#4aaaa5;
+	color:white;
+	font-family:Georgia;
+
+} 
+
+
+#links {
+	
+	float:right;
+
+}
+
+
+#main {
+	
+	float:left;
+	width:70%;
+	color:#777777;
+
+}
+
+#sidebar {
+
+	float:left;
+	width:30%;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1024px;
+}
